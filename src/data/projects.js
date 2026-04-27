@@ -9,7 +9,6 @@ const ProjectsData = [
     image: "./chatley.png",
     icons: [BiLogoReact, BiLogoCss3, SiThemoviedatabase],
     description: "AI Calling/Chat and scheduling system with GHL and n8n integartions.",
-    github: "https://github.com/heroa-dev/chatley",
     demo: "https://chatley.ai",
   },
   {
@@ -17,8 +16,7 @@ const ProjectsData = [
     name: "Kapture",
     image: "./kapture.png",
     icons: [BiLogoReact, BiLogoTailwindCss, TbApi, TbDatabase],
-    description: "enterprise customer support platform that uses AI to help companies handle customer service faster and more efficiently.",
-    github: "https://github.com/heroa-dev/kaptureai",
+    description: "Enterprise customer support platform that uses AI to help companies handle customer service faster and more efficiently.",
     demo: "https://kapture.cx",
   },
   {
@@ -27,7 +25,6 @@ const ProjectsData = [
     image: "./ringly.png",
     icons: [BiLogoReact, BiLogoTailwindCss, BiLogoFirebase],
     description: "AI voice platform handling live calls, appointment scheduling, and end-to-end customer interactions.",
-    github: "https://github.com/heroa-dev/ringly",
     demo: "https://www.ringly.io/",
   },
   {
@@ -36,7 +33,6 @@ const ProjectsData = [
     image: "./peeker.png",
     icons: [ BiLogoMongodb, SiExpress, BiLogoReact, BiLogoRedux, BiLogoTailwindCss],
     description: "B2B SaaS platform designed to automate and optimize cold email outreach using AI, data enrichment, and email infrastructure management.",
-    github: "https://github.com/heroa-dev/peekerai",
     demo: "https://peeker.ai",
   },
   {
@@ -45,7 +41,6 @@ const ProjectsData = [
     image: "./voxrai.png",
     icons: [TbBrandNextjs, BiLogoTypescript, BiLogoTailwindCss, TbApi],
     description: "AI multi-agent platform automating inbound/outbound calls, lead generation, bookings, and customer queries across voice, chat, SMS, e mail, and social channels",
-    github: "https://github.com/heroa-dev/voxrai",
     demo: "https://www.voxr.ai/",
   },
   {
@@ -54,7 +49,6 @@ const ProjectsData = [
     image: "./medianest.png",
     icons: [TbBrandNextjs, BiLogoTailwindCss, BiLogoMongodb,TbBrandPrisma],
     description: "End-to-end AI automation for media agencies and news channels covering content creation, posting, avatar news, and multi-channel publishing",
-    github: "https://github.com/heroa-dev/medianest",
     demo: "https://themedianest.ai/",
   },
 ];

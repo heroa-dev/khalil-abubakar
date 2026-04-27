@@ -51,14 +51,6 @@ const Projects = () => {
                 <div className="flex gap-7 justify-center items-center my-7 text-2xl">
                   <a
                     className="text-darkblue text-xl bg-white rounded-full p-2"
-                    href={project.github}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <FaGithub />
-                  </a>
-                  <a
-                    className="text-darkblue text-xl bg-white rounded-full p-2"
                     href={project.demo}
                     target="_blank"
                     rel="noopener noreferrer"
