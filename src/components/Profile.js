@@ -1,5 +1,4 @@
 import React from "react";
-import { Typewriter } from "react-simple-typewriter";
 import { Link } from "react-scroll";
 import SocialHandles from "./SocialHandles";
 import ProfileData from "../data/profile";
