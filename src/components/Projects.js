@@ -1,5 +1,5 @@
 import React from "react";
-import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
+import { FaExternalLinkAlt } from "react-icons/fa";
 import ProjectsData from "../data/projects";
 
 const Projects = () => {
